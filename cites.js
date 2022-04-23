@@ -8,7 +8,7 @@ else {
 
 }
 
-var w = 1000,
+var w = 1500,
     h = 800,
     fill = d3.scale.category20();
 
@@ -16,6 +16,14 @@ var vis = d3.select("#chart")
   .append("svg:svg")
     .attr("width", w)
     .attr("height", h);
+		.call(d3.behavior.zoom().on("zoom", redraw))
+
+		function redraw() {
+		  //console.log("here", d3.event.translate, d3.event.scale);
+		  vis.attr("transform",
+		      "translate(" + d3.event.translate + ")"
+		      + " scale(" + d3.event.scale + ")");
+		}
 
 var file="cites-"+document.getElementById('id1').value+".json"
 d3.json("cites.json", function(json) {
