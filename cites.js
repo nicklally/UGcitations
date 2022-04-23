@@ -15,8 +15,8 @@ var w = 1500,
 var vis = d3.select("#chart")
   .append("svg:svg")
     .attr("width", w)
-    .attr("height", h);
-		.call(d3.behavior.zoom().on("zoom", redraw))
+    .attr("height", h)
+		.call(d3.behavior.zoom().on("zoom", redraw));
 
 		function redraw() {
 		  //console.log("here", d3.event.translate, d3.event.scale);
