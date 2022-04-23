@@ -13,10 +13,19 @@ var w = 1500,
     fill = d3.scale.category20();
 
 var vis = d3.select("#chart")
-  .append("svg:svg")
-    .attr("width", w)
-    .attr("height", h)
-		.call(d3.behavior.zoom().on("zoom", redraw));
+.append("svg:svg")
+  .attr("width", w)
+  .attr("id","old")
+  .attr("height", h)
+    .attr("pointer-events", "all")
+.append('svg:g')
+  .call(d3.behavior.zoom().on("zoom", redraw))
+.append('svg:g');
+
+vis.append('svg:rect')
+  .attr('width', w)
+  .attr('height', h)
+  .attr('fill', 'white');
 
 		function redraw() {
 		  //console.log("here", d3.event.translate, d3.event.scale);
