@@ -1,32 +1,31 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Co-citations Antipode</title>
+    <title>Co-citations UG</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
     <script type='text/javascript' src="http://code.jquery.com/jquery-2.1.4.min.js"> </script>
     <link type="text/css" rel="stylesheet" href="d3/force.css"/>
   </head>
   <body>
   <form onsubmit="return false" oninput="level.value = id1.valueAsNumber">
-	<h3>Co-Citations of Antipode Nodes</h3>
-  <label for "id1">Citation Threshold</label>  
+	<h3>Co-Citations</h3>
+  <label for "id1">Citation Threshold</label>
   <input type="range" min="0" max="7" value="3" step="1" id="id1">
   <output for="id1" name="level">3</output>/7
-  
+
   <div class="ui-widget">
    <input id="search">
     <button type="button" onclick="searchNode()">Search</button>
 </div>
 
-  <!--<label for "ld">Link Distance</label> 
+  <!--<label for "ld">Link Distance</label>
   <input type="range" min="50" max="500" value="100" step="1" id="ld">
   <output for="ld" name="link dist">50</output>/500
   </form>-->
-  
+
     <div id="chart"></div>
     <script type="text/javascript" src="cites.js"></script>
-    
+
 
   </body>
 </html>
-
