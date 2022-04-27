@@ -46,7 +46,7 @@ console.log(file);
 d3.json(file, function(json) {
 
   var force = d3.layout.force()
-      .charge(-1025)
+      .charge(-525)
       .linkDistance(250)
       .nodes(json.nodes)
       .links(json.links)
