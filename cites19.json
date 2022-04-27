@@ -2,75 +2,75 @@
   "nodes": [
     {
       "group": "0", 
-      "name": "Sassen S 1991"
+      "name": "Sassen S 1991" , "nodeSize":60
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 2005"
+      "name": "Harvey D 2005" , "nodeSize":35
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 2003"
+      "name": "Harvey D 2003" , "nodeSize":24
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 2000"
+      "name": "Harvey D 2000" , "nodeSize":19
     }, 
     {
       "group": "2", 
-      "name": "Brenner N 2014"
+      "name": "Brenner N 2014" , "nodeSize":20
     }, 
     {
       "group": "3", 
-      "name": "Slater T 2006"
+      "name": "Slater T 2006" , "nodeSize":24
     }, 
     {
       "group": "0", 
-      "name": "LI W 1998"
+      "name": "LI W 1998" , "nodeSize":21
     }, 
     {
       "group": "1", 
-      "name": "Amin A 2002"
+      "name": "Amin A 2002" , "nodeSize":37
     }, 
     {
       "group": "3", 
-      "name": "Smith N 1987"
+      "name": "Smith N 1987" , "nodeSize":21
     }, 
     {
       "group": "1", 
-      "name": "Massey D 1994"
+      "name": "Massey D 1994" , "nodeSize":21
     }, 
     {
       "group": "1", 
-      "name": "Smith N 1984"
+      "name": "Smith N 1984" , "nodeSize":21
     }, 
     {
       "group": "1", 
-      "name": "Brenner N 2010"
+      "name": "Brenner N 2010" , "nodeSize":27
     }, 
     {
       "group": "2", 
-      "name": "Simone A 2004"
+      "name": "Simone A 2004" , "nodeSize":31
     }, 
     {
       "group": "0", 
-      "name": "Friedmann J 1986"
+      "name": "Friedmann J 1986" , "nodeSize":27
     }, 
     {
       "group": "1", 
-      "name": "Mitchell D 1995"
+      "name": "Mitchell D 1995" , "nodeSize":21
     }, 
     {
       "group": "0", 
-      "name": "Park RE 1925"
+      "name": "Park RE 1925" , "nodeSize":29
     }, 
     {
       "group": "0", 
-      "name": "Lang R E 2003"
+      "name": "Lang R E 2003" , "nodeSize":20
     }, 
     {
       "group": "1", 
-      "name": "Wacquant L 2008"
+      "name": "Wacquant L 2008" , "nodeSize":35
     }, 
     {
       "group": "1", 
@@ -90,43 +90,43 @@
     }, 
     {
       "group": "3", 
-      "name": "Soja EW 2000"
+      "name": "Soja EW 2000" , "nodeSize":25
     }, 
     {
       "group": "0", 
-      "name": "Wilson WJ 1987"
+      "name": "Wilson WJ 1987" , "nodeSize":39
     }, 
     {
       "group": "0", 
-      "name": "Garreau Joel 1991"
+      "name": "Garreau Joel 1991" , "nodeSize":34
     }, 
     {
       "group": "1", 
-      "name": "Logan John 1987"
+      "name": "Logan John 1987" , "nodeSize":39
     }, 
     {
       "group": "1", 
-      "name": "Mitchell D 1997"
+      "name": "Mitchell D 1997" , "nodeSize":21
     }, 
     {
       "group": "3", 
-      "name": "Bourdieu P 1979"
+      "name": "Bourdieu P 1979" , "nodeSize":21
     }, 
     {
       "group": "0", 
-      "name": "Hoyt 1939"
+      "name": "Hoyt 1939" , "nodeSize":23
     }, 
     {
       "group": "2", 
-      "name": "Lefebvre Henri 2003"
+      "name": "Lefebvre Henri 2003" , "nodeSize":24
     }, 
     {
       "group": "1", 
-      "name": "Dear M 1998"
+      "name": "Dear M 1998" , "nodeSize":22
     }, 
     {
       "group": "0", 
-      "name": "Wirth L 1938"
+      "name": "Wirth L 1938" , "nodeSize":19
     }, 
     {
       "group": "3", 
@@ -134,303 +134,303 @@
     }, 
     {
       "group": "1", 
-      "name": "Martin DG 2003"
+      "name": "Martin DG 2003" , "nodeSize":19
     }, 
     {
       "group": "3", 
-      "name": "Ley D 2003"
+      "name": "Ley D 2003" , "nodeSize":23
     }, 
     {
       "group": "0", 
-      "name": "Fishman R 1987"
+      "name": "Fishman R 1987" , "nodeSize":24
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 1996"
+      "name": "Harvey D 1996" , "nodeSize":28
     }, 
     {
       "group": "2", 
-      "name": "Massey D 2005"
+      "name": "Massey D 2005" , "nodeSize":42
     }, 
     {
       "group": "2", 
-      "name": "Robinson J 2002"
+      "name": "Robinson J 2002" , "nodeSize":31
     }, 
     {
       "group": "2", 
-      "name": "Peck J 2001"
+      "name": "Peck J 2001" , "nodeSize":23
     }, 
     {
       "group": "2", 
-      "name": "Robinson J 2006"
+      "name": "Robinson J 2006" , "nodeSize":44
     }, 
     {
       "group": "3", 
-      "name": "Ley David 1996"
+      "name": "Ley David 1996" , "nodeSize":32
     }, 
     {
       "group": "0", 
-      "name": "Taylor PJ 2004"
+      "name": "Taylor PJ 2004" , "nodeSize":20
     }, 
     {
       "group": "2", 
-      "name": "Parnell S 2012"
+      "name": "Parnell S 2012" , "nodeSize":19
     }, 
     {
       "group": "2", 
-      "name": "WU FL 2005"
+      "name": "WU FL 2005" , "nodeSize":20
     }, 
     {
       "group": "1", 
-      "name": "Wilson D 2004"
+      "name": "Wilson D 2004" , "nodeSize":28
     }, 
     {
       "group": "2", 
-      "name": "Mcfarlane C 2011"
+      "name": "Mcfarlane C 2011" , "nodeSize":34
     }, 
     {
       "group": "2", 
-      "name": "Mcfarlane C 2010"
+      "name": "Mcfarlane C 2010" , "nodeSize":22
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 1989"
+      "name": "Harvey D 1989" , "nodeSize":82
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 1982"
+      "name": "Harvey D 1982" , "nodeSize":28
     }, 
     {
       "group": "3", 
-      "name": "Smith N 2002"
+      "name": "Smith N 2002" , "nodeSize":46
     }, 
     {
       "group": "2", 
-      "name": "Graham S 2001"
+      "name": "Graham S 2001" , "nodeSize":41
     }, 
     {
       "group": "1", 
-      "name": "Harvey D 1985"
+      "name": "Harvey D 1985" , "nodeSize":21
     }, 
     {
       "group": "2", 
-      "name": "Robinson J 2011"
+      "name": "Robinson J 2011" , "nodeSize":56
     }, 
     {
       "group": "2", 
-      "name": "Roy A 2011"
+      "name": "Roy A 2011" , "nodeSize":50
     }, 
     {
       "group": "2", 
-      "name": "Robinson J 2016"
+      "name": "Robinson J 2016" , "nodeSize":23
     }, 
     {
       "group": "1", 
-      "name": "Pulido L 2000"
+      "name": "Pulido L 2000" , "nodeSize":21
     }, 
     {
       "group": "0", 
-      "name": "Gordon P 1996"
+      "name": "Gordon P 1996" , "nodeSize":27
     }, 
     {
       "group": "3", 
-      "name": "Wyly EK 1999"
+      "name": "Wyly EK 1999" , "nodeSize":26
     }, 
     {
       "group": "2", 
-      "name": "Nijman J 2007"
+      "name": "Nijman J 2007" , "nodeSize":30
     }, 
     {
       "group": "0", 
-      "name": "Giuliano G 1991"
+      "name": "Giuliano G 1991" , "nodeSize":23
     }, 
     {
       "group": "1", 
-      "name": "Swyngedouw E 1997"
+      "name": "Swyngedouw E 1997" , "nodeSize":19
     }, 
     {
       "group": "2", 
-      "name": "Peck J 2011"
+      "name": "Peck J 2011" , "nodeSize":29
     }, 
     {
       "group": "2", 
-      "name": "Peck J 2010"
+      "name": "Peck J 2010" , "nodeSize":44
     }, 
     {
       "group": "0", 
-      "name": "Massey D S 1993"
+      "name": "Massey D S 1993" , "nodeSize":48
     }, 
     {
       "group": "2", 
-      "name": "Peck J 2012"
+      "name": "Peck J 2012" , "nodeSize":37
     }, 
     {
       "group": "2", 
-      "name": "Peck J 2015"
+      "name": "Peck J 2015" , "nodeSize":20
     }, 
     {
       "group": "3", 
-      "name": "Lees L 2000"
+      "name": "Lees L 2000" , "nodeSize":22
     }, 
     {
       "group": "2", 
-      "name": "Ward K 2006"
+      "name": "Ward K 2006" , "nodeSize":28
     }, 
     {
       "group": "2", 
-      "name": "Ward K 2007"
+      "name": "Ward K 2007" , "nodeSize":19
     }, 
     {
       "group": "2", 
-      "name": "Roy A 2009"
+      "name": "Roy A 2009" , "nodeSize":43
     }, 
     {
       "group": "0", 
-      "name": "Jacobs J 1961"
+      "name": "Jacobs J 1961" , "nodeSize":39
     }, 
     {
       "group": "0", 
-      "name": "Castells M 1996"
+      "name": "Castells M 1996" , "nodeSize":23
     }, 
     {
       "group": "3", 
-      "name": "Newman K 2006"
+      "name": "Newman K 2006" , "nodeSize":24
     }, 
     {
       "group": "0", 
-      "name": "Massey DS 1993"
+      "name": "Massey DS 1993" , "nodeSize":19
     }, 
     {
       "group": "3", 
-      "name": "Marcuse P 1985"
+      "name": "Marcuse P 1985" , "nodeSize":24
     }, 
     {
       "group": "1", 
-      "name": "Heynen Nik 2006"
+      "name": "Heynen Nik 2006" , "nodeSize":19
     }, 
     {
       "group": "0", 
-      "name": "Sassen Saskia 2001"
+      "name": "Sassen Saskia 2001" , "nodeSize":23
     }, 
     {
       "group": "1", 
-      "name": "Mitchell Don 2003"
+      "name": "Mitchell Don 2003" , "nodeSize":52
     }, 
     {
       "group": "3", 
-      "name": "Hamnett C 2003"
+      "name": "Hamnett C 2003" , "nodeSize":22
     }, 
     {
       "group": "3", 
-      "name": "Lees Loretta 2008"
+      "name": "Lees Loretta 2008" , "nodeSize":24
     }, 
     {
       "group": "1", 
-      "name": "Lefebvre H 1991"
+      "name": "Lefebvre H 1991" , "nodeSize":62
     }, 
     {
       "group": "1", 
-      "name": "Soja E 1989"
+      "name": "Soja E 1989" , "nodeSize":21
     }, 
     {
       "group": "1", 
-      "name": "Molotch H 1976"
+      "name": "Molotch H 1976" , "nodeSize":22
     }, 
     {
       "group": "3", 
-      "name": "Peck J 2005"
+      "name": "Peck J 2005" , "nodeSize":37
     }, 
     {
       "group": "1", 
-      "name": "Peck J 2002"
+      "name": "Peck J 2002" , "nodeSize":65
     }, 
     {
       "group": "3", 
-      "name": "Smith N 1979"
+      "name": "Smith N 1979" , "nodeSize":37
     }, 
     {
       "group": "0", 
-      "name": "Massey DS 1985"
+      "name": "Massey DS 1985" , "nodeSize":19
     }, 
     {
       "group": "0", 
-      "name": "Massey DS 1988"
+      "name": "Massey DS 1988" , "nodeSize":35
     }, 
     {
       "group": "2", 
-      "name": "Mccann E 2011"
+      "name": "Mccann E 2011" , "nodeSize":53
     }, 
     {
       "group": "3", 
-      "name": "Blomley N 2004"
+      "name": "Blomley N 2004" , "nodeSize":34
     }, 
     {
       "group": "3", 
-      "name": "Hackworth J 2001"
+      "name": "Hackworth J 2001" , "nodeSize":29
     }, 
     {
       "group": "1", 
-      "name": "Hackworth J 2007"
+      "name": "Hackworth J 2007" , "nodeSize":28
     }, 
     {
       "group": "1", 
-      "name": "Wyly E 2009"
+      "name": "Wyly E 2009" , "nodeSize":23
     }, 
     {
       "group": "1", 
-      "name": "Harvey David 1989"
+      "name": "Harvey David 1989" , "nodeSize":28
     }, 
     {
       "group": "2", 
-      "name": "Ward K 2010"
+      "name": "Ward K 2010" , "nodeSize":19
     }, 
     {
       "group": "0", 
-      "name": "Jackson K 1985"
+      "name": "Jackson K 1985" , "nodeSize":36
     }, 
     {
       "group": "3", 
-      "name": "Lees L 2003"
+      "name": "Lees L 2003" , "nodeSize":29
     }, 
     {
       "group": "0", 
-      "name": "Cervero R 1997"
+      "name": "Cervero R 1997" , "nodeSize":19
     }, 
     {
       "group": "1", 
-      "name": "Young I 1990"
+      "name": "Young I 1990" , "nodeSize":19
     }, 
     {
       "group": "0", 
-      "name": "Anselin L 1995"
+      "name": "Anselin L 1995" , "nodeSize":21
     }, 
     {
       "group": "3", 
-      "name": "Smith N 1996"
+      "name": "Smith N 1996" , "nodeSize":95
     }, 
     {
       "group": "1", 
-      "name": "Brenner N 2009"
+      "name": "Brenner N 2009" , "nodeSize":19
     }, 
     {
       "group": "3", 
-      "name": "Florida R 2002"
+      "name": "Florida R 2002" , "nodeSize":57
     }, 
     {
       "group": "1", 
-      "name": "Brenner N 2002"
+      "name": "Brenner N 2002" , "nodeSize":72
     }, 
     {
       "group": "1", 
-      "name": "Harvey David 1973"
+      "name": "Harvey David 1973" , "nodeSize":33
     }, 
     {
       "group": "3", 
-      "name": "Zukin Sharon 1995"
+      "name": "Zukin Sharon 1995" , "nodeSize":19
     }, 
     {
       "group": "2", 
-      "name": "Brenner N 2004"
+      "name": "Brenner N 2004" , "nodeSize":30
     }
   ], 
   "links": [
